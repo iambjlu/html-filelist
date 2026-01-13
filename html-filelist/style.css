@@ -10,6 +10,11 @@ body {
     color: rgba(0, 0, 0, 0.87);
     font-family: '-apple-system', 'BlinkMacSystemFont', 'SF Pro', 'SF Pro Display', 'PingFang TC', 'Inter', 'Roboto', 'AppleGothic', 'Microsoft JhengHei UI', sans-serif;
     -webkit-font-smoothing: antialiased;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
 }
 
 /* Layout Header */
