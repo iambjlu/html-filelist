@@ -7,5 +7,6 @@
 註：如果把 files 檔案夾重新命名，則應同時於 index.html 修改 <code>const dir</code> 變數區塊
 
 <h2>實際使用畫面</h2>
+後續介面有更動，請以實際檔案為準
 <img src="https://github.com/iambjlu/html-filelist/blob/main/html-filelist/files/desktop.png?raw=true"></img><br>
 <img src="https://github.com/iambjlu/html-filelist/blob/main/html-filelist/files/mobile.jpeg?raw=true" width="50%"></img><br>
